@@ -3004,7 +3004,7 @@ ul {
   height: 400px;
 }
 
-.div-block-10 {
+.mirror-flower {
   width: 100%;
   background-image: url('../images/F876A489-93DD-4915-B6C4-986CDDB43178-min.JPEG');
   background-position: 50%;
@@ -3014,7 +3014,7 @@ ul {
   overflow: hidden;
 }
 
-.div-2 {
+.mirror-chair {
   width: 100%;
   background-image: url('../images/10-min.jpg');
   background-position: 50%;
@@ -3023,7 +3023,7 @@ ul {
   overflow: hidden;
 }
 
-.div-3 {
+.accessories {
   width: 100%;
   background-image: url('../images/34-min.jpg');
   background-position: 50% 0;
@@ -3031,7 +3031,7 @@ ul {
   overflow: hidden;
 }
 
-.div-4 {
+.walll-accessories {
   width: 100%;
   background-image: url('../images/38-min.jpg');
   background-position: 50%;
@@ -3039,7 +3039,7 @@ ul {
   overflow: hidden;
 }
 
-.div-6 {
+.ceo-at-work {
   width: 100%;
   background-image: url('../images/66-min.jpg');
   background-position: 50% 0;
@@ -3047,7 +3047,7 @@ ul {
   overflow: hidden;
 }
 
-.div-7 {
+.lamp-on-desk {
   width: 100%;
   background-image: url('../images/67-min.jpg');
   background-position: 50% 0;
@@ -3089,6 +3089,14 @@ ul {
 .div-block-11 {
   justify-content: center;
   display: flex;
+}
+
+.stylish-mirror {
+  width: 100%;
+  background-image: url('../images/16-min.jpg');
+  background-position: 50% 0;
+  background-size: cover;
+  overflow: hidden;
 }
 
 @media screen and (max-width: 991px) {
